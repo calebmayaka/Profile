@@ -160,13 +160,13 @@ header .follow a:hover{
 }
 
 .home .image{
-    flex:1 1 40rem;
+    flex:1 1 2rem;
     
 }
 
 .home .image img{
-    width:100%;
-    border-radius: 65%;
+    width:90%;
+    border-radius: 100%;
 }
 
 .home .content{
